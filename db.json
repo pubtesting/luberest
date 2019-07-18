@@ -1,0 +1,18 @@
+{
+  "samples": [
+    {
+      "id": 1,
+      "sampleMetadata": {
+        "lubricantType": "OCAXET APOREM",
+        "sampleNo": 1,
+        "uniqueNumber": 10001,
+        "windTurbineNo": "T01",
+        "lubeQuantityInSystem": "litres"
+       },
+       "diagnosis": {
+        "key": "Normal",
+        "comments": "Lorem Impsum"
+       }
+    }
+  ]
+}

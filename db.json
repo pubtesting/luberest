@@ -1,18 +1,296 @@
 {
   "samples": [
     {
-      "id": 1,
-      "sampleMetadata": {
-        "lubricantType": "OCAXET APOREM",
-        "sampleNo": 1,
-        "uniqueNumber": 10001,
+      "id": 1001,
+      "sampleSummary": {
+        "make": null,
+        "transmissionType": null,
+        "transmissionSerial": null,
+        "lubricantType": null,
+        "gradeOrViscosity": null,
+        "lubricantType": "BIZKAIKO MEROPA",
+        "sampleNo": 1001,
+        "uniqueNumber": 991001,
         "windTurbineNo": "T01",
+        "client": "ALICE LTD",
         "lubeQuantityInSystem": "litres"
-       },
-       "diagnosis": {
+      },
+      "diagnosis": {
         "key": "Normal",
-        "comments": "Lorem Impsum"
-       }
+        "diagnostician": "John Doe",
+        "comments": "Lorem ipsum dolor sit amet."
+      },
+      "results": {
+        "currentSample": {
+          "resultsSummary": {
+            "sampleNo": 1001,
+            "status": "Normal",
+            "sampled": "01/07/19",
+            "fluidAge": null,
+            "unitAge": null,
+            "received": "05/07/19"
+          },
+          "fluidCondition": {
+            "viscosityAt40DegreesCelsius": 221.0,
+            "viscosityIndex": 57,
+            "appearance": "Dark",
+            "acidNumber": 0.33,
+            "isoCode": "20/17/12",
+            "viscosity": 32.0
+          },
+          "additives": {
+            "boron": 4.3,
+            "barium": 0.0,
+            "calcium": 15,
+            "magnesium": 0.1,
+            "phosphorus": 224,
+            "sulfur": 10654,
+            "zinc": 7.7
+          },
+          "fluidConditionAndOtherTests": {
+            "water": 32,
+            "particleCount4": 5768,
+            "particleCount6": 1234,
+            "particleCount14": 24,
+            "sodium": 2.2,
+            "potassium": 0.7,
+            "silicon": 0.8,
+            "lithium": 0.9
+          },
+          "wearMetals": {
+            "ferrousDebris": 11,
+            "aluminium": 0.2,
+            "tin": 0.1,
+            "lead": 0.2,
+            "copper": 0.3,
+            "iron": 3.3,
+            "chromium": 0.1,
+            "molybdenum": 0.6,
+            "silver": 0.1,
+            "nickel": 0.2,
+            "manganese": 0.3
+          }
+        }
+      }
+    },
+    {
+      "id": 1002,
+      "sampleSummary": {
+        "make": null,
+        "transmissionType": null,
+        "transmissionSerial": null,
+        "lubricantType": null,
+        "gradeOrViscosity": null,
+        "lubricantType": "BIZKAIKO MEROPA",
+        "sampleNo": 1002,
+        "uniqueNumber": 991002,
+        "windTurbineNo": "T01",
+        "client": "ALICE LTD",
+        "lubeQuantityInSystem": "litres"
+      },
+      "diagnosis": {
+        "key": "Normal",
+        "diagnostician": "John Doe",
+        "comments": "Lorem ipsum dolor sit amet."
+      },
+      "results": {
+        "currentSample": {
+          "resultsSummary": {
+            "sampleNo": 1002,
+            "status": "Normal",
+            "sampled": "02/07/19",
+            "fluidAge": null,
+            "unitAge": null,
+            "received": "08/07/19"
+          },
+          "fluidCondition": {
+            "viscosityAt40DegreesCelsius": 221.0,
+            "viscosityIndex": 57,
+            "appearance": "Dark",
+            "acidNumber": 0.33,
+            "isoCode": "20/17/12",
+            "viscosity": 32.0
+          },
+          "additives": {
+            "boron": 4.3,
+            "barium": 0.0,
+            "calcium": 15,
+            "magnesium": 0.1,
+            "phosphorus": 224,
+            "sulfur": 10654,
+            "zinc": 7.7
+          },
+          "fluidConditionAndOtherTests": {
+            "water": 32,
+            "particleCount4": 5768,
+            "particleCount6": 1234,
+            "particleCount14": 24,
+            "sodium": 2.2,
+            "potassium": 0.7,
+            "silicon": 0.8,
+            "lithium": 0.9
+          },
+          "wearMetals": {
+            "ferrousDebris": 11,
+            "aluminium": 0.2,
+            "tin": 0.1,
+            "lead": 0.2,
+            "copper": 0.3,
+            "iron": 3.3,
+            "chromium": 0.1,
+            "molybdenum": 0.6,
+            "silver": 0.1,
+            "nickel": 0.2,
+            "manganese": 0.3
+          }
+        }
+      }
+    },
+    {
+      "id": 1003,
+      "sampleSummary": {
+        "make": null,
+        "transmissionType": null,
+        "transmissionSerial": null,
+        "lubricantType": null,
+        "gradeOrViscosity": null,
+        "lubricantType": "BIZKAIKO MEROPA",
+        "sampleNo": 1003,
+        "uniqueNumber": 991003,
+        "windTurbineNo": "T01",
+        "client": "ALICE LTD",
+        "lubeQuantityInSystem": "litres"
+      },
+      "diagnosis": {
+        "key": "Normal",
+        "diagnostician": "John Doe",
+        "comments": "Lorem ipsum dolor sit amet."
+      },
+      "results": {
+        "currentSample": {
+          "resultsSummary": {
+            "sampleNo": 1003,
+            "status": "Normal",
+            "sampled": "03/07/19",
+            "fluidAge": null,
+            "unitAge": null,
+            "received": "09/07/19"
+          },
+          "fluidCondition": {
+            "viscosityAt40DegreesCelsius": 221.0,
+            "viscosityIndex": 57,
+            "appearance": "Dark",
+            "acidNumber": 0.33,
+            "isoCode": "20/17/12",
+            "viscosity": 32.0
+          },
+          "additives": {
+            "boron": 4.3,
+            "barium": 0.0,
+            "calcium": 15,
+            "magnesium": 0.1,
+            "phosphorus": 224,
+            "sulfur": 10654,
+            "zinc": 7.7
+          },
+          "fluidConditionAndOtherTests": {
+            "water": 32,
+            "particleCount4": 5768,
+            "particleCount6": 1234,
+            "particleCount14": 24,
+            "sodium": 2.2,
+            "potassium": 0.7,
+            "silicon": 0.8,
+            "lithium": 0.9
+          },
+          "wearMetals": {
+            "ferrousDebris": 11,
+            "aluminium": 0.2,
+            "tin": 0.1,
+            "lead": 0.2,
+            "copper": 0.3,
+            "iron": 3.3,
+            "chromium": 0.1,
+            "molybdenum": 0.6,
+            "silver": 0.1,
+            "nickel": 0.2,
+            "manganese": 0.3
+          }
+        }
+      }
+    },
+    {
+      "id": 1004,
+      "sampleSummary": {
+        "make": null,
+        "transmissionType": null,
+        "transmissionSerial": null,
+        "lubricantType": null,
+        "gradeOrViscosity": null,
+        "lubricantType": "BIZKAIKO MEROPA",
+        "sampleNo": 1004,
+        "uniqueNumber": 991004,
+        "windTurbineNo": "T01",
+        "client": "ALICE LTD",
+        "lubeQuantityInSystem": "litres"
+      },
+      "diagnosis": {
+        "key": "Normal",
+        "diagnostician": "John Doe",
+        "comments": "Lorem ipsum dolor sit amet."
+      },
+      "results": {
+        "currentSample": {
+          "resultsSummary": {
+            "sampleNo": 1004,
+            "status": "Normal",
+            "sampled": "04/07/19",
+            "fluidAge": null,
+            "unitAge": null,
+            "received": "10/07/19"
+          },
+          "fluidCondition": {
+            "viscosityAt40DegreesCelsius": 221.0,
+            "viscosityIndex": 57,
+            "appearance": "Dark",
+            "acidNumber": 0.33,
+            "isoCode": "20/17/12",
+            "viscosity": 32.0
+          },
+          "additives": {
+            "boron": 4.3,
+            "barium": 0.0,
+            "calcium": 15,
+            "magnesium": 0.1,
+            "phosphorus": 224,
+            "sulfur": 10654,
+            "zinc": 7.7
+          },
+          "fluidConditionAndOtherTests": {
+            "water": 32,
+            "particleCount4": 5768,
+            "particleCount6": 1234,
+            "particleCount14": 24,
+            "sodium": 2.2,
+            "potassium": 0.7,
+            "silicon": 0.8,
+            "lithium": 0.9
+          },
+          "wearMetals": {
+            "ferrousDebris": 11,
+            "aluminium": 0.2,
+            "tin": 0.1,
+            "lead": 0.2,
+            "copper": 0.3,
+            "iron": 3.3,
+            "chromium": 0.1,
+            "molybdenum": 0.6,
+            "silver": 0.1,
+            "nickel": 0.2,
+            "manganese": 0.3
+          }
+        }
+      }
     }
   ]
 }
